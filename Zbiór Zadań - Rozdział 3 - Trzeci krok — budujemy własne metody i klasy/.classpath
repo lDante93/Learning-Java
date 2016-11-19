@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Dział 17 - Obsługa wyjątków"/>
+	<classpathentry kind="src" path="Dział 18 -  Liczby pseudolosowe i tablice jednowymiarowe — budujemy metody statyczne"/>
+	<classpathentry kind="src" path="Dział 19 - Dokumentacja klasy"/>
+	<classpathentry kind="src" path="Dział 20 - Działania na ułamkach — budujemy klasę Fraction"/>
+	<classpathentry kind="src" path="Dział 21 - Klasa opakowująca Angle — miara kąta i funkcje trygonometryczne"/>
+	<classpathentry kind="src" path="Dział 22 - Liczby rzymskie i klasa Roman"/>
+	<classpathentry kind="src" path="Dział 23 - Trójmian kwadratowy i klasa QuadratPoly"/>
+	<classpathentry kind="src" path="Dział 24 - Liczby zespolone — budujemy klasę Complex"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

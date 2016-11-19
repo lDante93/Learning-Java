@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Dział 25 - Operacje na plikach tekstowych"/>
+	<classpathentry kind="src" path="Dział 26 - Tablice jednowymiarowe i wielomiany"/>
+	<classpathentry kind="src" path="Dział 27 - Obliczenia statystyczne"/>
+	<classpathentry kind="src" path="Dział 28 - Tablice wielowymiarowe i macierze"/>
+	<classpathentry kind="src" path="Dział 29 - Obliczanie wartości funkcji, rekurencja i inne zadania"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

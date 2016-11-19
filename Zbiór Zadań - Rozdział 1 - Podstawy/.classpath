@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Dział 3 - Znaki, tablice znaków i klasa String"/>
+	<classpathentry kind="src" path="Dział 4 - Klasa String — operacje na tekstach"/>
+	<classpathentry kind="src" path="Dział 5 - Tablica argumentów aplikacji"/>
+	<classpathentry kind="src" path="Dział 6 - Prawda czy fałsz — logiczny typ danych"/>
+	<classpathentry kind="src" path="Dział 7 - Liczby całkowite typu int i klasa Integer"/>
+	<classpathentry kind="src" path="Dział 8 - Inne typy liczb całkowitych w Javie"/>
+	<classpathentry kind="src" path="Dział 9 - Typy liczb zmiennoprzecinkowych"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

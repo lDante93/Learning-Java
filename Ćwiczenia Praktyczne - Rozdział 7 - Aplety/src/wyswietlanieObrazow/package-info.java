@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author Dante
+ *
+ */
+package wyswietlanieObrazow;

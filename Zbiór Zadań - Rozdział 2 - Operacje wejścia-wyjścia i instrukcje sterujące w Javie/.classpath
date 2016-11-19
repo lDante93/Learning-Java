@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Dział 10 - Wyświetlanie sformatowanych wyników w konsoli. Stałe i metody z klasy Math"/>
+	<classpathentry kind="src" path="Dział 11 - Wczytywanie danych — klasa Scanner"/>
+	<classpathentry kind="src" path="Dział 12 - Operacje na tekstach — klasy StringBuffer i StringBuilder"/>
+	<classpathentry kind="src" path="Dział 13 - Instrukcje warunkowe i instrukcja selekcji"/>
+	<classpathentry kind="src" path="Dział 14 - Instrukcja pętli typu do-while"/>
+	<classpathentry kind="src" path="Dział 15 - Instrukcja pętli typu while"/>
+	<classpathentry kind="src" path="Dział 16 - Instrukcja pętli typu for"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
